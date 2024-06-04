@@ -42,7 +42,10 @@
 Demo:
 https://www.cubesland.xyz \
 Deck:
-https://www.canva.com/design/DAGHJxyfB3s/eU47zaq-dPN8YPK36UyBng/edit
+https://www.canva.com/design/DAGHJxyfB3s/eU47zaq-dPN8YPK36UyBng/edit \
+Video:
+https://www.loom.com/share/7d14e5096b884ec399789f8ea3a898d1?sid=642b1745-caaa-442d-9824-1ee96ecbe877 \
+
 
 ### Business Model
 1. Sell NFT and in-game items
