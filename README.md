@@ -16,8 +16,8 @@
 1.2 World (Game Logic)
 2. IPFS Storage to store game metadata
 3. WebGL
-4. Web Socket
-5. AI & LLM
+4. Game Engine(Real-time Open World, Indexer)
+5. AI-generated content & LLM
 
 ### Key Features:
 
