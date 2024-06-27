@@ -30,7 +30,7 @@
 ![How it works](/howitwork.png "How it works")
 
 Demo:
-https://www.cubesland.xyz \
+https://www.cubesland.xyz
 
 ### Business Model
 1. Sell NFT and in-game items
