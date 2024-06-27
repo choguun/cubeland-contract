@@ -32,7 +32,6 @@
 Demo:
 https://www.cubesland.xyz \
 
-
 ### Business Model
 1. Sell NFT and in-game items
 2. Platform fees
