@@ -11,13 +11,13 @@
 
 ### Technologies Used:
 
-1. Smart Contract
-1.1 On-chain in-game Items and Token
+1. Smart Contract \
+1.1 On-chain in-game Items and Token \
 1.2 World (Game Logic)
-2. IPFS Storage to store game metadata
-3. WebGL
-4. Game Engine(Real-time Open World, Indexer)
-5. AI-generated content & LLM
+3. IPFS Storage to store game metadata
+4. WebGL
+5. Game Engine(Real-time Open World, Indexer)
+6. AI-generated content & LLM
 
 ### Key Features:
 
