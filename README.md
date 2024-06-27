@@ -1,15 +1,5 @@
 # cubeland-contract
 
-### Vision
-
-* On-chain AIGC Survival Sandbox cube-theme Games in which users truly own their assets.
-
-### Description
-
-* We are building a decentralized and On-chain AIGC Survival Sandbox cube-theme Games in which users truly own their assets by leveraging blockchain, IPFS and AI technology.
-
-![GUI](/gui.png "GUI")
-
 ### How to deploy cubeland-contract
 
 * npx hardhat run scripts/01_deploy_protocol.ts --network testnet
@@ -41,10 +31,6 @@
 
 Demo:
 https://www.cubesland.xyz \
-Deck:
-https://www.canva.com/design/DAGHJxyfB3s/eU47zaq-dPN8YPK36UyBng/edit \
-Video:
-https://www.loom.com/share/7d14e5096b884ec399789f8ea3a898d1?sid=642b1745-caaa-442d-9824-1ee96ecbe877
 
 
 ### Business Model
